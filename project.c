@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 
+
 struct User {
     char username[50];
     char password[50];
